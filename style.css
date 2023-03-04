@@ -1,0 +1,18 @@
+
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+
+.header {
+    display: flex;
+    
+}
+.content{
+  
+    background-color: aqua;
+   align-content: center;
+}
